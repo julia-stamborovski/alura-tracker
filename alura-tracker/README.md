@@ -31,7 +31,9 @@ vue create alura-tracker
 </ hr>
 🫧 Lint</br>
 🫧 Prevenção de erros </br>
-🫧 Lint on save com arquivos dedicados
+🫧 Lint on save com arquivos dedicados </br>
+
+> Não está sendo utilizado  componentes baseados em classe
 
 ## Para rodar a aplicação
 ```
@@ -52,6 +54,12 @@ npm run build
 ```
 npm run lint
 ```
+###Instalando uma dependência com o projeto já criado
+> como exemplo, digamos que tenha esquecido de instalar typescript
+```
+vue add typescript
+```
+https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
