@@ -1,8 +1,13 @@
-# alura-tracker
+# Alura Tracker
+> Alura Tracker é uma aplicação que tem como funcionalidade o monitoramento de horas (tracking). O objetivo é: realizar acompanhamento de tarefas diárias. Esse é um projeto que está sendo realizado em conjunto com o curso:
+>> [Vue.js 3 - Conheça a nova versão do framework ](https://cursos.alura.com.br/formacao-vuejs3)
+  
+<b>Instrutor: Vinicios Neves, da Alura.</b>
 
+## Status do projeto
 <img src="https://img.shields.io/badge/-em%20desenvolvimento-blueviolet" />
 
-> Aplicação feita em:
+> 🏳️Tecnologias utilizadas:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js" />
 	
