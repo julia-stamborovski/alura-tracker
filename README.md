@@ -54,7 +54,7 @@ npm run build
 ```
 npm run lint
 ```
-###Instalando uma dependência com o projeto já criado
+### Instalando uma dependência com o projeto já criado
 > como exemplo, digamos que tenha esquecido de instalar typescript
 ```
 vue add typescript
